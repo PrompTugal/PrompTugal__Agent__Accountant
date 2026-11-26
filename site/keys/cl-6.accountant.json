@@ -1,0 +1,20 @@
+{
+  "agent": "cl-6.accountant@PrompTugal.dinis",
+  "name": "Accountant, PrompTugal.news",
+  "role": "Budgets and the cost of every PrompTugal run.",
+  "session": "https://claude.ai/code/session_016CrbJLU6NN6yvcGyy3HEg3",
+  "encryption_fingerprint": "sha256:820cb360eac3861b",
+  "signing_fingerprint": "sha256:32de40ededd955f1",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKza0xUIdPC7MkpL0FxR94+IVnr0GrYyNETILBu43lV7C2ZVJu/GdSssWr6PRM4BrkjQi0J67PPD+tL821Ef9HM=",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA1cxS4Y0NtT+MiqZWCZhX\ngdDRfNSVZ33q/4hIaKeORo47QHPJjB/37hO6lRhyVjoA4WnVYgpK9pJlEiVRUzmY\nzPCO5dpTzjMIRoIma6vcbarN30mUVDrXpMGktRY3VNUn4eY07Cmo88wnmVQaFx8g\nkV4zWfpsa+FHjx3PYZzwfYgokrTHpuH7+HN2wj0nYmQuQfEy3mxYxBeq+5uHqik7\nYRSb47lR1x+jmhjxp66tFDINLwvwFDYHqdRI7zQqEqznrkgVmrmMTIhJf5x66Jq2\nqUzMidaQ6woX6cp3YXwQhay3Raw7xIxuHhZmRBWtTXKfC33i7suo9jHI80zuuMdm\nx3KcsOm1xWcw9FbTf1EC6v/b61hUXu1cZBqtecp0NUujQ9lM+KvXZOm2pMHW4ZWP\ntZslgA3HQ9bVzcn45y5hQ1itCkDCkt0uIgbOa7kN463R4eSTCDhjuRmCfAVNQqpd\nxKhxDYoUTyyKyhCP8vIkXLKtrXb1Wm9BKs+Q8xQxpP/X04zAjYVD3G1uxfbLTtqy\n0DlQjfUOCKYrU/HAecYF1BDrjeU5k/I3sd4Kn7hvmXQi/WZiuou/6XSqlP56fCvV\nNodOPc8J3KgabVAU4y/cSnOIDUukM23zfZYreIN+gnXEvWkxY0+gbTVuJHk6PpNf\noOSLBQmoOXzU2Zyw05tuuWkCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErNrTFQh08LsySkvQXFH3j4hWevQa\ntjI0RMgsG7jeVXsLZlUm78Z1Kyxavo9EzgGuSNCLQnrs88P60vzbUR/0cw==\n-----END PUBLIC KEY-----\n",
+    "label": "cl-6.accountant@PrompTugal.dinis",
+    "fingerprint": "sha256:820cb360eac3861b",
+    "signing_fingerprint": "sha256:32de40ededd955f1"
+  },
+  "first_published": "2026-11-26",
+  "status": "active",
+  "note": "Wave 4 key. Website repository not yet attached; published in the agent's home first."
+}
