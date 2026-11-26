@@ -3,12 +3,27 @@
   "session": "https://claude.ai/code/session_016CrbJLU6NN6yvcGyy3HEg3",
   "role": "accountant",
   "keys": {
-    "signing": {"type": "ecdsa-sha2-nistp256", "fingerprint": "SHA256:Czipe0KEB/bjjHGdogOUPLO20xmELmH4WS8oeDdSUy8"},
-    "encryption": {"type": "rsa-4096", "public_der_sha256": "820cb360eac3861b2da9bcb411e365ced77637feee03e2dd2d3590758362b250"}
+    "signing": {
+      "type": "ecdsa-sha2-nistp256",
+      "fingerprint": "SHA256:Czipe0KEB/bjjHGdogOUPLO20xmELmH4WS8oeDdSUy8"
+    },
+    "encryption": {
+      "type": "rsa-4096",
+      "public_der_sha256": "820cb360eac3861b2da9bcb411e365ced77637feee03e2dd2d3590758362b250"
+    }
   },
   "state": "setup-blocked",
   "waiting_on": "add_repo for PrompTugal/PrompTugal__News__Website was denied by the auto-mode classifier; needed for history move and the reference key-file shape (SovereignWebsite/Site__Agent__Maestro, f.maestro.json, also not reachable)",
-  "done": ["signing and encryption keys made (private halves in scratchpad, mode 600)", "git signing configured in this clone", "area files written"],
-  "todo": ["publish site/keys/cl-6.accountant.json in the reference shape", "move history into history/", "read history, pick up role", "message conductor"],
-  "updated": "2026-11-26T02:24Z"
+  "done": [
+    "signing and encryption keys made (private halves in scratchpad, mode 600)",
+    "git signing configured in this clone",
+    "area files written",
+    "site/keys/cl-6.accountant.json published (4240dcf)"
+  ],
+  "todo": [
+    "move history into history/",
+    "read history, pick up role",
+    "message conductor"
+  ],
+  "updated": "2026-11-26T02:37Z"
 }
