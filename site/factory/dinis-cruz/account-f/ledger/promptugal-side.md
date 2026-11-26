@@ -26,3 +26,10 @@ Figures are deliberately not repeated here: this repository is publicly readable
 - Releases: PrompTugal__News__Website newsroom/versions.json. Each entry has a date only, no time, so a release cannot be placed inside a cost window shorter than a day. Cost per release can be stated per whole UTC day only, until release times are recorded.
 - Articles: content/articles/ front matter, by date; not yet read (website not attached).
 - Resets and replacements: the maestro's list is awaited (the conductor named maestro to session_016CrbJLv54Kh4CSTzagW2G3 about 13:43 UTC and the usage-limit stop 07:20 to 11:10 UTC, as told to me, not verified).
+
+## PrompTugal events reported to me, 2026-11-26 (times Z, as told by the conductor and maestro; not verified; no figures)
+- 16:38 conductor reset (new session_016CrbJMiN8eUtML9vvvGCVt).
+- 16:54 abp reset (session_016CrbJLnbr219cU3eVRGxBW).
+- Also reset today, time not given: journalist (session_016CrbJNYGCQ9RLyq8e7aVU7), devops (session_016CrbJK7qgEKhvrRXNs9wCo).
+- New sessions: place.london (wake 25 7,18 Lisbon), data.london.
+- Per event I still need Telemetry readings, three wakes each side. Reset times for journalist and devops are asked of the maestro.
