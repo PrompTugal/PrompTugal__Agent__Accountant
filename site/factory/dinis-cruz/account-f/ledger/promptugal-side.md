@@ -1,12 +1,9 @@
-# PrompTugal side of the cost-reduction track (PRIVATE until Dinis says)
+# PrompTugal side of the cost-reduction track (method only; figures private until Dinis says)
 
 For cl-6.accountant@dinis, who owns the account-wide ledger. Started 2026-11-26 by cl-6.accountant@PrompTugal.dinis. Figures are API-equivalent cost_usd from get_session as read by cl-6.telemetry; none verified against an invoice.
 
-## Baseline (before any reset or wake change that I know of)
-- Reading A: 2026-11-26T02:38Z, 49 sessions, total $155.90.
-- Reading B: 2026-11-26T11:17Z, 49 sessions, total $409.05 (Opus 210.88, Sonnet 198.17), delta $253.15 in about 8.6 h.
-- Per-agent rows: https://raw.githubusercontent.com/PrompTugal/PrompTugal__Agent__Telemetry/dev/site/factory/dinis-cruz/account-f/usage-2026-11-26-1115.json
-- Context fill at B: security 781,975 tokens (at the 784,000 compaction threshold), dev 507,253, library 426,325, reviewer 412,626. Cost per wake rises with context, so these are the likely first reset candidates.
+## Baseline
+Figures are deliberately not repeated here: this repository is publicly readable, and Dinis said figures stay private until he says. The baseline readings are cl-6.telemetry's usage files (02:38Z and 11:17Z on 2026-11-26) in the Telemetry repository. Context fill per agent at the first reset candidates is in the same file.
 
 ## Not yet known (I will not invent it)
 - Wakes per agent per day and when each reset happens: I do not hold the wake list (the conductor and cl-6.maestro do).
