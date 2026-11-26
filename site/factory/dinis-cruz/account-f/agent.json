@@ -18,12 +18,13 @@
     "signing and encryption keys made (private halves in scratchpad, mode 600)",
     "git signing configured in this clone",
     "area files written",
-    "site/keys/cl-6.accountant.json published (4240dcf)"
+    "site/keys/cl-6.accountant.json published (4240dcf)",
+    "ABP grant read; R14 label written; run report R10 filed under runs/cl-6.accountant/"
   ],
   "todo": [
     "move history into history/",
     "read history, pick up role",
     "message conductor"
   ],
-  "updated": "2026-11-26T02:37Z"
+  "updated": "2026-11-26T11:18Z"
 }
