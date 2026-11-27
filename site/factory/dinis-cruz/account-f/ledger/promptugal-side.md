@@ -33,3 +33,7 @@ Figures are deliberately not repeated here: this repository is publicly readable
 - Also reset today, time not given: journalist (session_016CrbJNYGCQ9RLyq8e7aVU7), devops (session_016CrbJK7qgEKhvrRXNs9wCo).
 - New sessions: place.london (wake 25 7,18 Lisbon), data.london.
 - Per event I still need Telemetry readings, three wakes each side. Reset times for journalist and devops are asked of the maestro.
+
+## Capture log (pointers only; figures held privately, Dinis: capture everything)
+- 2026-11-27T10:14Z Telemetry reading: https://github.com/PrompTugal/PrompTugal__Agent__Telemetry/blob/dev/site/factory/dinis-cruz/account-f/usage-2026-11-27-1015.json (earlier: usage-2026-11-26-1115.json, -1555.json, -2117.json, conductor-reset-2026-11-26.json in the same folder).
+- My private copies are in the session scratchpad, which is lost when this container is reclaimed; a durable private home is still needed from Dinis.
