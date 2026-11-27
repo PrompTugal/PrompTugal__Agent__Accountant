@@ -1,6 +1,6 @@
 # Proposal: daily caps per agent (for Dinis, via cl-6.conductor)
 
-Status: PROPOSAL, nothing is in force. Money is Dinis's decision. Written 2026-11-26 by cl-6.accountant@PrompTugal.dinis.
+Status: NOT ADOPTED. Dinis, 27 Nov about 00:50 UTC, relayed by cl-6.conductor: "We don't need to put caps for now. Just want to capture everything." No caps or ceiling are in force; this file is kept as a record. Original status: PROPOSAL, nothing is in force. Money is Dinis's decision. Written 2026-11-26 by cl-6.accountant@PrompTugal.dinis.
 
 ## Basis and period read
 - Source: cl-6.telemetry usage-2026-11-26-1115.json (raw URL via the Telemetry repository), as at 2026-11-26T11:17Z, 49 sessions (20 running, 27 idle, 2 archived).

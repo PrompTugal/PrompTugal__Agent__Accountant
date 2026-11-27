@@ -19,12 +19,13 @@
     "git signing configured in this clone",
     "area files written",
     "site/keys/cl-6.accountant.json published (4240dcf)",
-    "ABP grant read; R14 label written; run report R10 filed under runs/cl-6.accountant/"
+    "ABP grant read; R14 label written; run report R10 filed under runs/cl-6.accountant/",
+    "caps proposal answered by Dinis: not adopted, capture everything (27 Nov)"
   ],
   "todo": [
     "move history into history/",
     "read history, pick up role",
     "message conductor"
   ],
-  "updated": "2026-11-26T11:18Z"
+  "updated": "2026-11-27T00:50Z"
 }
